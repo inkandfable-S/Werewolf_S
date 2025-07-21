@@ -1,0 +1,2 @@
+# Werewolf_S
+Starter
